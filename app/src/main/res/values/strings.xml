@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Earthquaker !</string>
+    <string name="google_app_id">AIzaSyC8QEWGVFWfyfm2rwTaIq5qq1ZevUvffW8</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_loading">Loading…</string>
+    <string name="task_cancel">Task is canceled.</string>
+    <string name="laoding_complete">Loading is complete.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="loading_failed">Loading failed.</string>
+    <string name="item_depth">Depth: %s</string>
+    <string name="item_distance">Distance to: %s</string>
+    <string name="dialog_data">M%1$s - %2$s UTC</string>
+    <string name="dialog_location">Location: %1$s&#176;, %2$s&#176;</string>
+    <string name="dialog_depth">Depth: %s</string>
+    <string name="dialog_sig">Significance: %s</string>
+    <string name="menu_reload">Reload</string>
+    <string name="setting_title">Default Data Filter</string>
+    <string name="setting_default">0</string>
+    <string name="setting_key">setting key</string>
+    <string name="Subtitle">an earthquake reporter.</string>
+    <string-array name="search_entry_values">
+        <item>0</item>
+        <item>172800000</item>
+        <item>345600000</item>
+    </string-array>
+    <string-array name="search_entry_options">
+        <item>Today</item>
+        <item>Last 48 hr.</item>
+        <item>Last 96 hr.</item>
+    </string-array>
+</resources>

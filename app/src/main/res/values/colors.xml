@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a6334</color>
+    <color name="colorPrimaryDark">#02321A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabUnSelected">#424242</color>
+    <color name="tabSelected">#6A6A6A</color>
+    <color name="lineColor">#C4C4C4</color>
+    <color name="detail_dialog_top">#15653A</color>
+</resources>
